@@ -58,6 +58,7 @@ The analysis of the election show that:
 
 
 ![](/Graphics/analysis_file.png)  ![](/Graphics/terminal.png)
+
 *the first one is from the election_anaylsis file and the second one is from the terminal
 
 ## Election Audit Summary
