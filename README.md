@@ -58,6 +58,7 @@ The analysis of the election show that:
 
 
 ![](/Graphics/analysis_file.png)  ![](/Graphics/terminal.png)
+*the first one is from the election_anaylsis file and the second one is from the terminal
 
 ## Election Audit Summary
 This audit canbe used for future elections with modifications to help determine who is the popular vote by percentage and the actual number of vote the candidate received. It can also help deteremine what regions within the voting area are having a big turn out and which ones are not. In return, it can help determine which regions need assistance with getting voters to the polls to vote.
